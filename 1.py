@@ -17,4 +17,3 @@ header ={
 }
 r = requests.get(url=url, headers=header, allow_redirects=False)
 print(r.text)
-
