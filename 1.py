@@ -11,4 +11,4 @@
     'Referer': 'https://account.xiaomi.com/pass/serviceLogin?callback=https%3A%2F%2Faccount.xiaomi.com%2Fsts%2Foauth%3Fsign%3Dq0XlyqvJVn4Wi3Bo284txf%252BLyPg%253D%26followup%3Dhttps%253A%252F%252Faccount.xiaomi.com%252Foauth2%252Fauthorize%253Fskip_confirm%253Dfalse%2526client_id%253D428135909242707968%2526pt%253D1%2526redirect_uri%253Dhttps%25253A%25252F%25252Fapi-mifit-cn.huami.com%25252Fhuami.health.loginview.do%2526_hideSwitch%253Dfalse%2526_locale%253Dzh_CN%2526response_type%253Dcode%2526scope%253D1%25252016001%25252016002%25252020000%2525206000%2526_sas%253Dtrue%26sid%3Doauth2.0&sid=oauth2.0&lsrp_appName=%E4%BD%BF%E7%94%A8%E5%B0%8F%E7%B1%B3%E5%B8%90%E5%8F%B7%E7%99%BB%E5%BD%95%24%7B%E5%B0%8F%E7%B1%B3%E8%BF%90%E5%8A%A8%7D%24&_customDisplay=20&scope=1%206000%2016001%2016002&_locale=zh_CN&_ssign=2%26V1_oauth2.0%26Q99AnOtTELVItwUWIM3cdYrVA4k%3D',
     'Accept-Encoding': 'gzip, deflate',
     'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
-    'cookie': cookie
+    'cookies': cookie
